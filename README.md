@@ -51,5 +51,3 @@ Bir krallık içinde geçen, tahtı ele geçirmek veya korumak üzerine kurulu �
 - **Rütbe Sistemi:** Oyuncular oyun içindeki başarılarına göre unvan kazanır.
 - **Modifikasyon Desteği:** Yeni senaryolar ve modlar eklenebilir.
 
-Bu doküman, oyunun temel tasarım öğelerini içermektedir. Daha detaylı mekaniklerin belirlenmesi ve prototipleme süreci ilerledikçe ek güncellemeler yapılabilir.
-
